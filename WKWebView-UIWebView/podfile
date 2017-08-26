@@ -1,0 +1,5 @@
+use_frameworks!
+target 'WKWebView-UIWebView' do
+pod 'MWPhotoBrowser', '~> 2.1.2'
+
+end
